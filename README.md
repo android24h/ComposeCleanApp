@@ -99,8 +99,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, reach out via:
 
-* **LinkedIn**: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* **Email**: [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn**: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/alirezahalvaei/)
+* **Email**: [your-email@example.com](halvaei@Gmail.com)
 
 ---
 
